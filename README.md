@@ -23,7 +23,6 @@ So fügt ihr in Android einer Notification Action-Buttons hinzu, die bestimmte A
 
 ### App Icon
 
-Erstellt mit <a href="http://romannurik.github.io/AndroidAssetStudio/icons-launcher.html" target="_blank" >Android Asset Studio</a>)
+(Erstellt mit [Android Asset Studio](http://romannurik.github.io/AndroidAssetStudio/icons-launcher.html))
 
 <img src="/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" height="100px" />
-
